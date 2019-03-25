@@ -14,7 +14,7 @@
  */
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
-  color: #36667C; }
+  color: #fff; }
 
 /*********************************************
  * GLOBAL STYLES
@@ -24,7 +24,7 @@ body {
   background-color: #36667C; }
 
 .reveal {
-  font-family: Helvetica;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 25px;
   font-weight: normal;
   color: #fff; }
